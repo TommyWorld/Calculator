@@ -1,0 +1,6 @@
+/Users/tommy/Projects/Calcurator/GtkPractice/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/tommy/Projects/Calcurator/GtkPractice/obj/x86/Debug/GtkPractice.gtk-gui.gui.stetic
+/Users/tommy/Projects/Calcurator/GtkPractice/bin/Debug/GtkPractice.exe.mdb
+/Users/tommy/Projects/Calcurator/GtkPractice/bin/Debug/GtkPractice.exe
+/Users/tommy/Projects/Calcurator/GtkPractice/obj/x86/Debug/GtkPractice.exe
+/Users/tommy/Projects/Calcurator/GtkPractice/obj/x86/Debug/GtkPractice.exe.mdb
